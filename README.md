@@ -11,49 +11,49 @@ The dataset used is Churn_Modelling.csv, which contains customer demographic dat
 
 #Main Project Steps
 
-Data Cleaning
+-Data Cleaning
 
-Removed irrelevant columns (RowNumber, Surname, CustomerId)
+-Removed irrelevant columns (RowNumber, Surname, CustomerId)
 
-Handled missing values in numerical and categorical variables
+-Handled missing values in numerical and categorical variables
 
 #Exploratory Data Analysis
 
-Univariate distributions (Age, Balance, CreditScore)
+-Univariate distributions (Age, Balance, CreditScore)
 
-Churn distribution across Gender and Geography
+-Churn distribution across Gender and Geography
 
-Correlation heatmap
+-Correlation heatmap
 
-Additional EDA visuals:
+-Additional EDA visuals:
 
-Age vs Churn Relationship
+-Age vs Churn Relationship
 
-Credit Score vs Churn Relationship
+-Credit Score vs Churn Relationship
 
-Balance vs Churn Boxplots
+-Balance vs Churn Boxplots
 
 #Modeling
 
-Logistic Regression
+-Logistic Regression
 
-Random Forest Classifier
+-Random Forest Classifier
 
-XGBoost Classifier
+-XGBoost Classifier
 
 #Evaluation
 
 Metrics used:
 
-Accuracy
+-Accuracy
 
-Precision
+-Precision
 
-Recall
+-Recall
 
-F1-score
+-F1-score
 
-ROC-AUC Score
+-ROC-AUC Score
 
 #Feature Importance
 
@@ -63,13 +63,13 @@ Exporting Outputs for Power BI
 
 #Tools Used
 
-Python
+-Python
 
-Jupyter Notebook
+-Jupyter Notebook
 
-pandas, xgboost, matplotlib, seaborn
+-pandas, xgboost, matplotlib, seaborn
 
-Power BI (visual dashboards)
+-Power BI (visual dashboards)
 
 #Goal
 
