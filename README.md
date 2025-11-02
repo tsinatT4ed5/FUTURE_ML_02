@@ -1,5 +1,6 @@
 # FUTURE_ML_02
 Bank Customer Churn Prediction Project
+
 #Project Overview
 
 This project aims to predict bank customer churn (whether a customer will leave the bank) using machine learning models. The project includes Exploratory Data Analysis (EDA), feature engineering, model training, evaluation, and exporting prediction outputs for use in Power BI.
