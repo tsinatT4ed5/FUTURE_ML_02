@@ -231,32 +231,6 @@ The model should be viewed as a **decision-support tool**, rather than an automa
 
 ---
 
-## 📁 Repository Structure
-
-```text
-Bank_customer_Churn_prediction/
-│
-├── 📂 data/
-│   └── Churn_Modelling.csv
-│
-├── 📂 notebooks/
-│   └── customer_churn_prediction.ipynb
-│
-├── 📂 outputs/
-│   ├── predictions.csv
-│   └── feature_importance.png
-│
-├── 📊 powerbi/
-│   └── churn_dashboard.pbix
-│
-├── 📄 requirements.txt
-├── 📄 .gitignore
-└── 📖 README.md
-```
-
-> Update the structure above to match the actual files and folders in the repository.
-
----
 
 ## 🚀 Future Improvements
 
